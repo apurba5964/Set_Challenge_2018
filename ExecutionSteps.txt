@@ -1,0 +1,12 @@
+Instructions
+
+1)Java program was coded with java version "1.8.0_171"
+2)Download and unzip folder
+3)Goto the Directory
+4)execute the commands below
+
+a) cd to your directory
+b) javac src/com/sift_science/*/*.java
+c) cd src
+d) cat ../input.txt | java com.sift_science.main.ApplicationMain
+e) cat ../input2.txt | java com.sift_science.main.ApplicationMain
